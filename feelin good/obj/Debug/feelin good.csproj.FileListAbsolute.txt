@@ -1,0 +1,16 @@
+C:\Users\bysec\OneDrive\Área de Trabalho\Random\feelin good\feelin good\bin\Debug\feelin good.exe.config
+C:\Users\bysec\OneDrive\Área de Trabalho\Random\feelin good\feelin good\bin\Debug\feelin good.exe
+C:\Users\bysec\OneDrive\Área de Trabalho\Random\feelin good\feelin good\bin\Debug\feelin good.pdb
+C:\Users\bysec\OneDrive\Área de Trabalho\Random\feelin good\feelin good\obj\Debug\feelin good.csprojAssemblyReference.cache
+C:\Users\bysec\OneDrive\Área de Trabalho\Random\feelin good\feelin good\obj\Debug\feelin_good.Form1.resources
+C:\Users\bysec\OneDrive\Área de Trabalho\Random\feelin good\feelin good\obj\Debug\feelin_good.Properties.Resources.resources
+C:\Users\bysec\OneDrive\Área de Trabalho\Random\feelin good\feelin good\obj\Debug\feelin_good.SkeetSlider.resources
+C:\Users\bysec\OneDrive\Área de Trabalho\Random\feelin good\feelin good\obj\Debug\feelin good.csproj.GenerateResource.cache
+C:\Users\bysec\OneDrive\Área de Trabalho\Random\feelin good\feelin good\obj\Debug\feelin good.csproj.CoreCompileInputs.cache
+C:\Users\bysec\OneDrive\Área de Trabalho\Random\feelin good\feelin good\obj\Debug\feelin good.exe
+C:\Users\bysec\OneDrive\Área de Trabalho\Random\feelin good\feelin good\obj\Debug\feelin good.pdb
+C:\Users\bysec\OneDrive\Área de Trabalho\Random\feelin good\feelin good\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\bysec\OneDrive\Área de Trabalho\Random\feelin good\feelin good\bin\Debug\MaterialSkin.dll
+C:\Users\bysec\OneDrive\Área de Trabalho\Random\feelin good\feelin good\bin\Debug\MetroFramework.dll
+C:\Users\bysec\OneDrive\Área de Trabalho\Random\feelin good\feelin good\bin\Debug\Siticone.UI.dll
+C:\Users\bysec\OneDrive\Área de Trabalho\Random\feelin good\feelin good\obj\Debug\feelin good.csproj.CopyComplete
